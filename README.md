@@ -1,5 +1,13 @@
+<a href="https://subhajitkundu.netlify.app/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h1 align="center">Hi 👋, I'm Dipanu Hazra</h1>
 <h3 align="center">A passionate Web Developer 😊 and a 1st year BTECH Undergraduate from Netaji Subhash Engineering College, INDIA.</h3>
+ <a href="https://bit.ly/subhajit-kundu"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%ffffff&size=25&weight=800&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Freelancer;aspiring+Full+Stack+Developer"></a>
+</p>
+<a href="https://bit.ly/subhajit-kundu"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<p align="left"> 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanuhazra&label=Profile%20views&color=0e75b6&style=flat" alt="dipanuhazra" /> </p>
 
