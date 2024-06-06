@@ -12,16 +12,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanuhazra&label=Profile%20views&color=0e75b6&style=flat" alt="dipanuhazra" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- :school: I am a `1st Year Student` at [Netaji Subhash Engineering College].
+  
+- :student: I’m currently learning `Backend Engineering` and `Software Engineering`.
+  
+- :nerd_face: Always `keen to learn and develop new things`.
+  
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, JAVA, C,C++**
+
+- 📫 How to reach me **dipanuhazra@gmail.com**
 
 - 🔭 I’m currently working on **Video Processing Application**
 
-- 🌱 I’m currently learning **Backend Development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Dipanuhazra](https://github.com/Dipanuhazra)
 
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **dipanuhazra@gmail.com**
 
 - ⚡ Fun fact **Freelancer , Video Editor**
 
