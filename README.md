@@ -12,6 +12,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanuhazra&label=Profile%20views&color=0e75b6&style=flat" alt="dipanuhazra" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
 - :school: I am a `1st Year Student` at [Netaji Subhash Engineering College].
   
 - :student: I’m currently learning `Backend Engineering` and `Software Engineering`.
