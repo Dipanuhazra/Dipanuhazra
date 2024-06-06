@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **dipanuhazra@gmail.com**
 
-- ⚡ Fun fact **Freelancer**
+- ⚡ Fun fact **Freelancer , Video Editor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
