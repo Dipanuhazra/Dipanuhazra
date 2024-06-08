@@ -1,4 +1,3 @@
-<img src="C:\Users\HP\AppData\Local\Temp\61a4f35b-fb33-40c5-94c0-1b831ab90a48_Orange, Cream, and White Photographic Food & Restaurant Service Website.zip.a48\Home.png" height="300" width="1500">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h1 align="center">Hii , I am Dipanu Hazra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h4 align="center">A passionate Web Developer and a 1st year BTECH Undergraduate from Netaji Subhash Engineering College, INDIA.<img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-47.gif" width="150" > </h4>
