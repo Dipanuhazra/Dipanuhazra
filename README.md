@@ -1,3 +1,4 @@
+<img src="https://i0.wp.com/codemyui.com/wp-content/uploads/2018/03/pure-css-flat-design-carousel-ride.gif?fit=690%2C345&ssl=1" height="300" width="1500">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h1 align="center">Hii , I am Dipanu Hazra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h4 align="center">A passionate Web Developer and a 1st year BTECH Undergraduate from Netaji Subhash Engineering College, INDIA.<img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-47.gif" width="150" > </h4>
