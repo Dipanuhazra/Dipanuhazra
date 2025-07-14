@@ -5,7 +5,7 @@
 </video>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h1 align="center">Hii , I am Dipanu Hazra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h4 align="center">A passionate Web Developer and a 2nd year BTECH Undergraduate from Netaji Subhash Engineering College, INDIA.<img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-47.gif" width="150" > </h4>
+<h4 align="center">A passionate Web Developer , ML aspirant and a 3rd year BTECH Undergraduate from Netaji Subhash Engineering College, INDIA.<img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-47.gif" width="150" > </h4>
 
 </p>
 <a href="https://bit.ly/subhajit-kundu"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -19,17 +19,17 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- :school: I am a `1st Year Student` at [Netaji Subhash Engineering College].
+- :school: I am a `3rd Year Student` at [Netaji Subhash Engineering College].
   
-- :student: I’m currently learning `Backend Engineering` and `Software Engineering`.
+- :student: I’m currently learning `AI & ML Engineering` and `Software Engineering`.
   
 - :nerd_face: Always `keen to learn and develop new things`.
   
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, JAVA, C,C++**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, JAVA, C, C++, DSA, Python**
 
 - 📫 How to reach me **dipanuhazra@gmail.com**
 
-- 🔭 I’m currently working on **Video Processing Application**
+- 🔭 I’m currently working on **Fake Review Detection System**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dipanuhazra](https://github.com/Dipanuhazra)
 
